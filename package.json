@@ -1,0 +1,19 @@
+{
+  "name": "objexp",
+  "version": "0.0.1",
+  "description": "Make object from table style string",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuta Minowa",
+  "license": "MIT",
+  "dependencies": {
+    "cartesian-product": "^2.1.2",
+    "lodash.get": "^4.1.2",
+    "lodash.setwith": "^4.0.0"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0"
+  }
+}
